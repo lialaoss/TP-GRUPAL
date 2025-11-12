@@ -60,7 +60,6 @@ def al_presionar_continuar(ventana_a_destruir):
     crear_ventana_principal()
 
 
-
 def crear_ventana_principal():
     """
     Objetivo: Crea la ventana principal de la aplicación.
